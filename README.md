@@ -1,4 +1,4 @@
-# freeCodecamp Relational Database SQL Course Solutions
+# freeCodeCamp Relational Database SQL Course Solutions
 
 ## Build a Celestial Bodies Database
 
